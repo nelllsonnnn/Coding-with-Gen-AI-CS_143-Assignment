@@ -1,0 +1,259 @@
+===================================================
+  POKÉMON CARD LIST
+  Sets: Ascended Heroes | 151 | Prismatic Evolutions
+===================================================
+
+Format: Name | Set | Energy Type | Rarity
+
+---------------------------------------------------
+ ASCENDED HEROES (Released: January 30, 2026)
+---------------------------------------------------
+Arcanine ex              | Ascended Heroes | Fire        | Double Rare
+Charizard ex             | Ascended Heroes | Fire        | Double Rare
+Mega Blaziken ex         | Ascended Heroes | Fire        | Ultra Rare
+Mega Charizard X ex      | Ascended Heroes | Fire        | Mega Attack Rare
+Mega Charizard Y ex      | Ascended Heroes | Fire        | Mega Hyper Rare
+Mega Infernape ex        | Ascended Heroes | Fire        | Ultra Rare
+Numel                    | Ascended Heroes | Fire        | Common
+Slugma                   | Ascended Heroes | Fire        | Common
+Beautifly                | Ascended Heroes | Grass       | Uncommon
+Dustox                   | Ascended Heroes | Grass       | Uncommon
+Erika's Tangela          | Ascended Heroes | Grass       | Rare
+Mega Emboar ex           | Ascended Heroes | Grass       | Ultra Rare
+Mega Sceptile ex         | Ascended Heroes | Grass       | Ultra Rare
+Bulbasaur                | Ascended Heroes | Grass       | Common
+Ivysaur                  | Ascended Heroes | Grass       | Uncommon
+Charjabug                | Ascended Heroes | Lightning   | Common
+Hop's Pincurchin ex      | Ascended Heroes | Lightning   | Double Rare
+Iono's Bellibolt ex      | Ascended Heroes | Lightning   | Ultra Rare
+Iono's Tadbulb           | Ascended Heroes | Lightning   | Uncommon
+Iono's Wattrel           | Ascended Heroes | Lightning   | Common
+Iono's Kilowattrel       | Ascended Heroes | Lightning   | Uncommon
+Mega Eelektross ex       | Ascended Heroes | Lightning   | Ultra Rare
+Miraidon ex              | Ascended Heroes | Lightning   | Double Rare
+Pikachu ex               | Ascended Heroes | Lightning   | Special Illustration Rare
+Stunfisk                 | Ascended Heroes | Lightning   | Common
+Tapu Koko                | Ascended Heroes | Lightning   | Rare
+Tynamo                   | Ascended Heroes | Lightning   | Common
+Vikavolt                 | Ascended Heroes | Lightning   | Uncommon
+Voltorb ex               | Ascended Heroes | Lightning   | Double Rare
+Clefable                 | Ascended Heroes | Psychic     | Uncommon
+Clefairy                 | Ascended Heroes | Psychic     | Common
+Fezandipiti ex           | Ascended Heroes | Psychic     | Ultra Rare
+Lillie's Clefairy ex     | Ascended Heroes | Psychic     | Special Illustration Rare
+Team Rocket's Exeggcute  | Ascended Heroes | Psychic     | Common
+Team Rocket's Exeggutor  | Ascended Heroes | Psychic     | Uncommon
+Team Rocket's Mewtwo ex  | Ascended Heroes | Psychic     | Special Illustration Rare
+Togepi                   | Ascended Heroes | Psychic     | Common
+Togekiss                 | Ascended Heroes | Psychic     | Rare
+Togetic                  | Ascended Heroes | Psychic     | Uncommon
+Marill                   | Ascended Heroes | Water       | Common
+Mega Feraligatr ex       | Ascended Heroes | Water       | Ultra Rare
+Mega Gyarados ex         | Ascended Heroes | Water       | Ultra Rare
+Mega Swampert ex         | Ascended Heroes | Water       | Ultra Rare
+Ethan's Magcargo         | Ascended Heroes | Fire        | Rare
+Mega Diancie ex          | Ascended Heroes | Fighting    | Mega Attack Rare
+Mega Hawlucha ex         | Ascended Heroes | Fighting    | Mega Attack Rare
+Mega Gengar ex           | Ascended Heroes | Darkness    | Special Illustration Rare
+Mega Scrafty ex          | Ascended Heroes | Darkness    | Ultra Rare
+Marnie's Grimmsnarl ex   | Ascended Heroes | Darkness    | Ultra Rare
+N's Zoroark ex           | Ascended Heroes | Darkness    | Ultra Rare
+Mega Dragonite ex        | Ascended Heroes | Dragon      | Mega Hyper Rare
+Steven's Metagross ex    | Ascended Heroes | Metal       | Ultra Rare
+Mega Lucario ex          | Ascended Heroes | Metal       | Mega Attack Rare
+Canari                   | Ascended Heroes | Colorless   | Special Illustration Rare
+
+---------------------------------------------------
+ 151 (Released: September 22, 2023)
+---------------------------------------------------
+Bulbasaur                | 151             | Grass       | Common
+Ivysaur                  | 151             | Grass       | Uncommon
+Venusaur ex              | 151             | Grass       | Double Rare
+Oddish                   | 151             | Grass       | Common
+Gloom                    | 151             | Grass       | Uncommon
+Vileplume                | 151             | Grass       | Rare
+Paras                    | 151             | Grass       | Common
+Parasect                 | 151             | Grass       | Uncommon
+Venonat                  | 151             | Grass       | Common
+Venomoth                 | 151             | Grass       | Uncommon
+Charmander               | 151             | Fire        | Common
+Charmeleon               | 151             | Fire        | Uncommon
+Charizard ex             | 151             | Fire        | Double Rare
+Vulpix                   | 151             | Fire        | Common
+Ninetales ex             | 151             | Fire        | Double Rare
+Growlithe                | 151             | Fire        | Common
+Arcanine                 | 151             | Fire        | Uncommon
+Ponyta                   | 151             | Fire        | Common
+Rapidash                 | 151             | Fire        | Uncommon
+Magmar                   | 151             | Fire        | Common
+Flareon                  | 151             | Fire        | Uncommon
+Moltres ex               | 151             | Fire        | Double Rare
+Squirtle                 | 151             | Water       | Common
+Wartortle                | 151             | Water       | Uncommon
+Blastoise ex             | 151             | Water       | Double Rare
+Psyduck                  | 151             | Water       | Common
+Golduck                  | 151             | Water       | Uncommon
+Poliwag                  | 151             | Water       | Common
+Poliwhirl                | 151             | Water       | Uncommon
+Poliwrath                | 151             | Water       | Rare
+Tentacool                | 151             | Water       | Common
+Tentacruel               | 151             | Water       | Uncommon
+Seel                     | 151             | Water       | Common
+Dewgong                  | 151             | Water       | Uncommon
+Shellder                 | 151             | Water       | Common
+Cloyster                 | 151             | Water       | Uncommon
+Krabby                   | 151             | Water       | Common
+Kingler                  | 151             | Water       | Uncommon
+Horsea                   | 151             | Water       | Common
+Seadra                   | 151             | Water       | Uncommon
+Goldeen                  | 151             | Water       | Common
+Seaking                  | 151             | Water       | Uncommon
+Staryu                   | 151             | Water       | Common
+Starmie                  | 151             | Water       | Rare
+Magikarp                 | 151             | Water       | Common
+Gyarados ex              | 151             | Water       | Double Rare
+Lapras ex                | 151             | Water       | Double Rare
+Vaporeon                 | 151             | Water       | Uncommon
+Omanyte                  | 151             | Water       | Common
+Omastar                  | 151             | Water       | Uncommon
+Kabuto                   | 151             | Water       | Common
+Kabutops                 | 151             | Water       | Uncommon
+Articuno ex              | 151             | Water       | Double Rare
+Pikachu                  | 151             | Lightning   | Common
+Raichu                   | 151             | Lightning   | Rare
+Magnemite                | 151             | Lightning   | Common
+Magneton                 | 151             | Lightning   | Uncommon
+Voltorb                  | 151             | Lightning   | Common
+Electrode                | 151             | Lightning   | Uncommon
+Electabuzz               | 151             | Lightning   | Uncommon
+Jolteon                  | 151             | Lightning   | Uncommon
+Zapdos ex                | 151             | Lightning   | Double Rare
+Abra                     | 151             | Psychic     | Common
+Kadabra                  | 151             | Psychic     | Uncommon
+Alakazam ex              | 151             | Psychic     | Double Rare
+Slowpoke                 | 151             | Psychic     | Common
+Slowbro                  | 151             | Psychic     | Uncommon
+Gastly                   | 151             | Psychic     | Common
+Haunter                  | 151             | Psychic     | Uncommon
+Gengar ex                | 151             | Psychic     | Double Rare
+Drowzee                  | 151             | Psychic     | Common
+Hypno                    | 151             | Psychic     | Uncommon
+Mr. Mime                 | 151             | Psychic     | Uncommon
+Jynx                     | 151             | Psychic     | Uncommon
+Espeon                   | 151             | Psychic     | Uncommon
+Mew ex                   | 151             | Psychic     | Double Rare
+Mewtwo ex                | 151             | Psychic     | Double Rare
+Nidoran F                | 151             | Fighting    | Common
+Nidorina                 | 151             | Fighting    | Uncommon
+Nidoqueen                | 151             | Fighting    | Rare
+Nidoran M                | 151             | Fighting    | Common
+Nidorino                 | 151             | Fighting    | Uncommon
+Nidoking                 | 151             | Fighting    | Rare
+Mankey                   | 151             | Fighting    | Common
+Primeape                 | 151             | Fighting    | Uncommon
+Geodude                  | 151             | Fighting    | Common
+Graveler                 | 151             | Fighting    | Uncommon
+Golem ex                 | 151             | Fighting    | Double Rare
+Onix                     | 151             | Fighting    | Common
+Cubone                   | 151             | Fighting    | Common
+Marowak                  | 151             | Fighting    | Uncommon
+Hitmonlee                | 151             | Fighting    | Rare
+Hitmonchan               | 151             | Fighting    | Rare
+Rhyhorn                  | 151             | Fighting    | Common
+Rhydon                   | 151             | Fighting    | Uncommon
+Kangaskhan ex            | 151             | Colorless   | Double Rare
+Ekans                    | 151             | Darkness    | Common
+Arbok ex                 | 151             | Darkness    | Double Rare
+Meowth                   | 151             | Darkness    | Common
+Persian                  | 151             | Darkness    | Uncommon
+Zubat                    | 151             | Darkness    | Common
+Golbat                   | 151             | Darkness    | Uncommon
+Grimer                   | 151             | Darkness    | Common
+Muk ex                   | 151             | Darkness    | Double Rare
+Umbreon                  | 151             | Darkness    | Uncommon
+Rattata                  | 151             | Colorless   | Common
+Raticate                 | 151             | Colorless   | Uncommon
+Spearow                  | 151             | Colorless   | Common
+Fearow                   | 151             | Colorless   | Uncommon
+Clefairy                 | 151             | Colorless   | Common
+Clefable                 | 151             | Colorless   | Uncommon
+Jigglypuff               | 151             | Colorless   | Common
+Wigglytuff ex            | 151             | Colorless   | Double Rare
+Farfetch'd               | 151             | Colorless   | Uncommon
+Doduo                    | 151             | Colorless   | Common
+Dodrio                   | 151             | Colorless   | Uncommon
+Lickitung                | 151             | Colorless   | Common
+Chansey ex               | 151             | Colorless   | Double Rare
+Tauros                   | 151             | Colorless   | Common
+Ditto ex                 | 151             | Colorless   | Double Rare
+Eevee                    | 151             | Colorless   | Common
+Porygon                  | 151             | Colorless   | Common
+Snorlax                  | 151             | Colorless   | Uncommon
+Diglett                  | 151             | Fighting    | Common
+Dugtrio                  | 151             | Fighting    | Uncommon
+Sandshrew                | 151             | Fighting    | Common
+Sandslash                | 151             | Fighting    | Uncommon
+Machop                   | 151             | Fighting    | Common
+Machoke                  | 151             | Fighting    | Uncommon
+Machamp ex               | 151             | Fighting    | Double Rare
+Pidgey                   | 151             | Colorless   | Common
+Pidgeotto                | 151             | Colorless   | Uncommon
+Pidgeot ex               | 151             | Colorless   | Double Rare
+Aerodactyl ex            | 151             | Colorless   | Double Rare
+
+---------------------------------------------------
+ PRISMATIC EVOLUTIONS (Released: January 17, 2025)
+---------------------------------------------------
+Applin                   | Prismatic Evolutions | Grass       | Common
+Budew                    | Prismatic Evolutions | Grass       | Common
+Cottonee                 | Prismatic Evolutions | Grass       | Common
+Dipplin                  | Prismatic Evolutions | Grass       | Uncommon
+Exeggcute                | Prismatic Evolutions | Grass       | Common
+Exeggutor                | Prismatic Evolutions | Grass       | Uncommon
+Hydrapple ex             | Prismatic Evolutions | Grass       | Double Rare
+Leafeon                  | Prismatic Evolutions | Grass       | Uncommon
+Leafeon ex               | Prismatic Evolutions | Grass       | Double Rare
+Pinsir                   | Prismatic Evolutions | Grass       | Common
+Teal Mask Ogerpon ex     | Prismatic Evolutions | Grass       | Double Rare
+Whimsicott               | Prismatic Evolutions | Grass       | Uncommon
+Flareon                  | Prismatic Evolutions | Fire        | Uncommon
+Flareon ex               | Prismatic Evolutions | Fire        | Double Rare
+Hearthflame Mask Ogerpon ex | Prismatic Evolutions | Fire     | Double Rare
+Litleo                   | Prismatic Evolutions | Fire        | Common
+Pyroar                   | Prismatic Evolutions | Fire        | Uncommon
+Goldeen                  | Prismatic Evolutions | Water       | Common
+Glaceon                  | Prismatic Evolutions | Water       | Uncommon
+Glaceon ex               | Prismatic Evolutions | Water       | Double Rare
+Seaking                  | Prismatic Evolutions | Water       | Uncommon
+Slowking                 | Prismatic Evolutions | Water       | Uncommon
+Slowpoke                 | Prismatic Evolutions | Water       | Common
+Suicune                  | Prismatic Evolutions | Water       | Rare
+Vaporeon                 | Prismatic Evolutions | Water       | Uncommon
+Vaporeon ex              | Prismatic Evolutions | Water       | Double Rare
+Wellspring Mask Ogerpon ex | Prismatic Evolutions | Water     | Double Rare
+Jolteon                  | Prismatic Evolutions | Lightning   | Uncommon
+Jolteon ex               | Prismatic Evolutions | Lightning   | Double Rare
+Pikachu ex               | Prismatic Evolutions | Lightning   | Double Rare
+Raikou                   | Prismatic Evolutions | Lightning   | Rare
+Eevee                    | Prismatic Evolutions | Colorless   | Common
+Eevee ex                 | Prismatic Evolutions | Colorless   | Double Rare
+Sylveon                  | Prismatic Evolutions | Psychic     | Uncommon
+Sylveon ex               | Prismatic Evolutions | Psychic     | Double Rare
+Espeon                   | Prismatic Evolutions | Psychic     | Uncommon
+Espeon ex                | Prismatic Evolutions | Psychic     | Double Rare
+Entei                    | Prismatic Evolutions | Fire        | Rare
+Umbreon                  | Prismatic Evolutions | Darkness    | Uncommon
+Umbreon ex               | Prismatic Evolutions | Darkness    | Special Illustration Rare
+Flareon ex               | Prismatic Evolutions | Fire        | Special Illustration Rare
+Vaporeon ex              | Prismatic Evolutions | Water       | Special Illustration Rare
+Jolteon ex               | Prismatic Evolutions | Lightning   | Special Illustration Rare
+Espeon ex                | Prismatic Evolutions | Psychic     | Special Illustration Rare
+Umbreon ex               | Prismatic Evolutions | Darkness    | Special Illustration Rare
+Glaceon ex               | Prismatic Evolutions | Water       | Special Illustration Rare
+Leafeon ex               | Prismatic Evolutions | Grass       | Special Illustration Rare
+Sylveon ex               | Prismatic Evolutions | Psychic     | Special Illustration Rare
+
+===================================================
+  END OF LIST
+  Total cards listed: 230+
+===================================================
